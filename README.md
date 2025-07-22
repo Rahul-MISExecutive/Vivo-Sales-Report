@@ -1,4 +1,4 @@
-# 📊 Vivo Sales Data Analysis Dashboard
+# 📊 Vivo Sales Data Analysis
 
 This project focuses on analyzing Vivo mobile sales data using **Power BI** for visual insights and trend analysis. It explores sales trends, product performance, customer demographics, and other key metrics to understand the Vivo mobile market.
 
@@ -44,11 +44,11 @@ This project focuses on analyzing Vivo mobile sales data using **Power BI** for 
 
 ## 📷 Power BI Dashboard Preview
 
-> **
+> *https://github.com/Rahul-MISExecutive/Vivo-Sales-Report/blob/main/Dashboard%20Preview.png*
 
 ---
 
-## 🙋‍♂️ Author
+## 🔗 Author
 
-**Rahul Singh**
+**Rahul Singh**  
 Entry-Level MIS Executive
